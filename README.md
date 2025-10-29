@@ -29,7 +29,7 @@ This mini-project demonstrates the use of:
    ```
 4. Run the program:
    ```bash
-   python main.py
+   python number_guesser.py
    ```
 
 ---
@@ -66,6 +66,11 @@ Congratulations! You guessed the number in 3 guesses!
 ✅ Randomized number each time  
 ✅ User-friendly instructions  
 ✅ Clean structure with functions  
+
+---
+
+## 📄 License
+This project is released under the **MIT License** — feel free to use, modify, and distribute it.
 
 ---
 
